@@ -54,36 +54,36 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/fototoronto.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
-  padding-top: 60px;
+  padding-top: 200px;
 }
 header {
   line-height: 1.5;
 }
 header .profile-image {
-  margin-top: 50px;
-  width: 150px;
-  height: 150px;
+  margin-top: 100px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid pink;
   transition: all .5s;
 }
 header .profile-image:hover { /* hover serve para mexer a imagem com o mouse*/
   transform: scale(1.2) rotate(360deg);
 }
 .tag {
-  background-color: #efefef;
-  color: black;
+  background-color: none;
+  color: pink;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 0px;
   display: table;
   margin: 10px auto;
 } 
 .location {
-  background-color: #222;
-  color: white;
+  background-color: none;
+  color: pink;
 }
 .card {
   margin: 30px;
