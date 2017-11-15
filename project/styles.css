@@ -83,7 +83,9 @@ header .profile-image:hover { /* hover serve para mexer a imagem com o mouse*/
 } 
 .location {
   background-color: none;
+  padding: 1px;
   color: pink;
+  margin: 1px auto;
 }
 .card {
   margin: 30px;
