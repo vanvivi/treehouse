@@ -209,4 +209,9 @@ h3{
   color: black;
   letter-spacing: 2px;
 }
+.card-title{
+  text-align: center;
+  border: solid black 3px;
+  border-radius: 10px; /* se colocar border-radius 50% vc consegue fazer um circulo*/
+}
 
