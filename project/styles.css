@@ -15,10 +15,10 @@ body {
 
 a {
   text-decoration: none;
-  color: #0499ff;
+  color: #D4A190;
 }
 a:hover {
-  color: #6633ff;
+  color: #D4A190;
 }
 
 /* Section Styles */
@@ -193,7 +193,6 @@ a.social:hover {
   main {
     padding-top: 50px;
   }
-
   main p {
     line-height: 1.6em;
   }
